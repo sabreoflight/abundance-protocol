@@ -1,0 +1,256 @@
+{
+  "title": "The Abundance Protocol",
+  "subtitle": "Eight steps. Five minutes a day.",
+  "steps": [
+    "Choose the lens",
+    "Clarify the vision",
+    "Gratitude",
+    "Release competition",
+    "Act daily in a Certain Way",
+    "Give first",
+    "Release hurry and hold faith",
+    "Daily alignment"
+  ],
+  "affirmation": [
+    "I choose abundance.",
+    "My vision is clear. My gratitude is constant.",
+    "I release the contest. I give first. I move unhurried.",
+    "There is enough. There is more to create.",
+    "I begin."
+  ],
+  "startHere": {
+    "welcome": [
+      "Welcome. We're glad you're here.",
+      "You've just stepped off a race most of us never chose to enter. Over the next eight lessons you'll learn to see the same life through a different lens: one where value is created, not divided, where gratitude comes before \"more,\" and where calm, unhurried action does what frantic effort never could.",
+      "There is nothing to master and nothing to rush. Take one lesson at a time. Do the small practice it asks for. Then come back tomorrow.",
+      "When you've finished the series, Lesson 8, *The Morning Practice*, becomes your daily five minutes. That is where the real change happens: quietly, every morning, one day at a time.",
+      "Begin when you're ready.",
+      "— Mission Abundance"
+    ],
+    "howTo": [
+      "**Go in order.** Each lesson builds on the one before it.",
+      "**One lesson, one practice.** After each video, open its worksheet and do the single small practice for the next few days.",
+      "**Use headphones** if you can. The lessons are designed to be calm and immersive.",
+      "**Pace yourself.** One lesson a day works. So does one a week. Slower is not worse.",
+      "**Then make it daily.** Once you finish, return to Lesson 8 every morning and track 30 days."
+    ],
+    "downloads": [
+      "Each lesson includes:\n- **The worksheet** (PDF, one page) with what to do, say, remember, reflect on, and track.\n- **The audio version** (MP3), for walks and commutes.",
+      "Print the worksheets if you can. Writing by hand slows you down in the best way."
+    ]
+  },
+  "daily": {
+    "morning": "This is your daily five minutes. Press play before you check your phone, before email, before the world asks anything of you. Mark each morning on your 30-day tracker.",
+    "tracker": "Download, print, and place it where you'll see it each morning. Missed a day? Simply begin again. There is no streak to protect, only a practice to return to."
+  },
+  "completion": [
+    "**You've completed the Abundance Protocol.**",
+    "You now have eight steps and one simple daily practice. From here, the work is quiet and repeatable: five minutes each morning, one small practice each day, one gift, one thank-you.",
+    "Keep the Morning Practice pinned. Come back to any lesson whenever you need it. And when you notice the old race starting up again, notice it, name it, and choose the lens.",
+    "Choose abundance. Again, and again.",
+    "---"
+  ],
+  "lessons": [
+    {
+      "n": 1,
+      "slug": "the-foundation",
+      "title": "The Foundation",
+      "meta": "Episode 0 · Length 7:41",
+      "pitch": "Moving from the competitive plane to the creative plane, through Mind, Action and Deed",
+      "description": "Wealth is created, not taken. This opening lesson lays the ground for everything that follows: why competing keeps you stuck, what it means to rise onto the creative plane, and how your thought, your daily action and your dealings with people can line up into one steady force. It closes with the original daily affirmation.",
+      "inThisLesson": [
+        "The competitive plane and the creative plane",
+        "Mind: the clear mental image and unshakable gratitude",
+        "Action: every day a success, every act carried with growth",
+        "Deed: purpose, an unhurried pace, and faith in every deed"
+      ],
+      "takeaways": [
+        "You don't take value from others. You bring new value into existence.",
+        "Give more in use-value than you take in cash-value.",
+        "Every day is a success or a failure, so make today a success."
+      ],
+      "practice": "Read the daily affirmation each morning for seven days.",
+      "video": "the-foundation.mp4",
+      "worksheet": "worksheet_ep0_the_foundation.pdf",
+      "audio": "the-foundation.mp3",
+      "poster": "the-foundation.jpg",
+      "duration": 461
+    },
+    {
+      "n": 2,
+      "slug": "choosing-abundance",
+      "title": "Choosing Abundance",
+      "meta": "Episode 1 · Steps 1–3 · Length 5:17",
+      "pitch": "The abundance lens, the power of focus, and gratitude as the bridge from lack",
+      "description": "Abundance is a lens you choose. In this lesson you'll see the same room through scarcity and through abundance, learn why attention works like light, and discover that today is one frame, not the whole film. Then comes the heart of the Protocol: gratitude as the bridge from feeling lack to feeling abundant, even before the facts change.",
+      "inThisLesson": [
+        "Two lenses: the pie and the spring",
+        "The power of focus",
+        "In hard seasons: notice, name, give thanks",
+        "Gratitude as the bridge, naming three things and giving thanks in advance"
+      ],
+      "takeaways": [
+        "The lens is a choice.",
+        "Abundance is not denial. Hard seasons are real, and so is the open window.",
+        "Feeling abundant doesn't wait for more. It begins with gratitude."
+      ],
+      "practice": "Name three things you already have, every morning for seven days.",
+      "video": "choosing-abundance.mp4",
+      "worksheet": "worksheet_ep1_choosing_abundance.pdf",
+      "audio": "choosing-abundance.mp3",
+      "poster": "choosing-abundance.jpg",
+      "duration": 317
+    },
+    {
+      "n": 3,
+      "slug": "the-clear-vision",
+      "title": "The Clear Vision",
+      "meta": "Step 2 · Length 5:17",
+      "pitch": "Knowing exactly what you want, writing it down, and holding the completed picture",
+      "description": "A vague wish stays a wish. This lesson turns wanting into a clear picture: knowing exactly what you want, writing it down in the present tense, holding the completed scene, and refusing to feed the obstacles. Then you'll learn to hold that vision with gratitude, where clarity becomes faith.",
+      "inThisLesson": [
+        "From haze to focus",
+        "Know exactly what you want",
+        "Write it down, in the present tense",
+        "Hold the completed picture, not the obstacles"
+      ],
+      "takeaways": [
+        "You cannot move toward a blur.",
+        "Attention feeds what it touches.",
+        "Clarity plus gratitude becomes faith."
+      ],
+      "practice": "Write one page describing your completed vision in the present tense, and read it morning and night for seven days.",
+      "video": "the-clear-vision.mp4",
+      "worksheet": "worksheet_step2_the_clear_vision.pdf",
+      "audio": "the-clear-vision.mp3",
+      "poster": "the-clear-vision.jpg",
+      "duration": 317
+    },
+    {
+      "n": 4,
+      "slug": "release-the-contest",
+      "title": "Release the Contest",
+      "meta": "Episode 2 · Step 4 · Length 5:17",
+      "pitch": "Stepping out of comparison with three steps: notice, name, bless",
+      "description": "Comparison quietly turns life into a race with no finish line. This lesson shows the hidden cost of watching other people's lanes, and invites you onto the open field, the creative plane, where there's room for everyone. You'll learn a simple three-step practice for the moment comparison creeps in: notice, name, bless.",
+      "inThisLesson": [
+        "The invisible race and its quiet cost",
+        "Stepping off the track",
+        "Why another person's light does not dim yours",
+        "Desiring by creating, not taking"
+      ],
+      "takeaways": [
+        "Attention spent on their lane is light taken from your own.",
+        "Their success is proof of what is possible, not a threat.",
+        "Make more. Don't take more."
+      ],
+      "practice": "Once a day, notice one comparison, name it gently and bless that person silently.",
+      "video": "release-the-contest.mp4",
+      "worksheet": "worksheet_ep2_release_the_contest.pdf",
+      "audio": "release-the-contest.mp3",
+      "poster": "release-the-contest.jpg",
+      "duration": 317
+    },
+    {
+      "n": 5,
+      "slug": "the-daily-work",
+      "title": "The Daily Work",
+      "meta": "Episode 3 · Step 5 · Length 5:17",
+      "pitch": "Making each day complete: three things, one at a time, fully",
+      "description": "Thought becomes real through action, but not frantic action. This lesson is about the quality of your attention: making each day complete in itself, doing one thing at a time with full presence, being a source of increase for others, and doing your part without forcing the outcome. You'll leave with a simple daily rhythm for morning, midday and evening.",
+      "inThisLesson": [
+        "Thought becomes action, one step at a time",
+        "Every day is complete in itself",
+        "One thing at a time: not more effort, more presence",
+        "Do the work, then release the grip"
+      ],
+      "takeaways": [
+        "Judge the accumulation of days, not one day.",
+        "Hurry splits attention. Calm gathers it.",
+        "Nothing is small when it is done with purpose."
+      ],
+      "practice": "Each morning choose three things, and each evening close the day with three completions and one thank-you.",
+      "video": "the-daily-work.mp4",
+      "worksheet": "worksheet_ep3_the_daily_work.pdf",
+      "audio": "the-daily-work.mp3",
+      "poster": "the-daily-work.jpg",
+      "duration": 317
+    },
+    {
+      "n": 6,
+      "slug": "give-first",
+      "title": "Give First",
+      "meta": "Episode 4 · Step 6 · Length 5:17",
+      "pitch": "Generosity as flow: five ways to give, from overflow, with no string attached",
+      "description": "Abundance is not something you hold. It is something that moves through you. In this lesson you'll explore use-value (what your gift does for the person receiving it), five ways to give that have nothing to do with money, why healthy giving comes from overflow rather than depletion, and how to give freely, with no string attached.",
+      "inThisLesson": [
+        "A pond that takes and a spring that gives",
+        "Use-value over cash-value",
+        "Five ways to give: attention, kindness, skill, time and resources",
+        "Give from overflow, and keep your boundaries"
+      ],
+      "takeaways": [
+        "A spring that gives stays fresh.",
+        "Healthy giving keeps its boundaries.",
+        "Value that circulates tends to return, often from places you didn't expect."
+      ],
+      "practice": "Give one gift a day, with no string attached.",
+      "video": "give-first.mp4",
+      "worksheet": "worksheet_ep4_give_first.pdf",
+      "audio": "give-first.mp3",
+      "poster": "give-first.jpg",
+      "duration": 317
+    },
+    {
+      "n": 7,
+      "slug": "unhurried",
+      "title": "Unhurried",
+      "meta": "Episode 5 · Step 7 · Length 5:17",
+      "pitch": "Releasing hurry, acting in faith, and the difference between calm and passive",
+      "description": "Hurry is scarcity wearing a watch. This is the slowest lesson in the series, on purpose. You'll learn to recognize the rush in your body, borrow nature's pace, find clarity in calm, and practice a grounded kind of faith: doing your part completely, taking only the next visible step, and trusting the process while staying awake to what is real.",
+      "inThisLesson": [
+        "Hurry is fear in motion",
+        "Nature never hurries, and yet everything is accomplished",
+        "Calm is clear",
+        "Faith is not passive: raise the sail and trust the wind"
+      ],
+      "takeaways": [
+        "You don't have to obey the rush.",
+        "Calm is not slow. Calm is clear.",
+        "The road appears as you walk it."
+      ],
+      "practice": "Take one slow breath before acting whenever you notice yourself rushing.",
+      "video": "unhurried.mp4",
+      "worksheet": "worksheet_ep5_unhurried.pdf",
+      "audio": "unhurried.mp3",
+      "poster": "unhurried.jpg",
+      "duration": 317
+    },
+    {
+      "n": 8,
+      "slug": "the-morning-practice",
+      "title": "The Morning Practice",
+      "meta": "Episode 6 · Step 8 · Length 5:17 · 30-day tracker",
+      "pitch": "The five-minute daily alignment that moves through every step",
+      "description": "How you begin shapes how you move. This guided lesson is the capstone of the Protocol: five minutes, seven short movements, one for each step you've learned. Return to it every morning. It closes with the Abundance Protocol affirmation.",
+      "inThisLesson": [
+        "Choose the lens, hold the picture, gratitude",
+        "Release the contest, choose your three things, choose one gift",
+        "Move unhurried",
+        "The Abundance Protocol affirmation"
+      ],
+      "takeaways": [
+        "Before the world asks anything of you, arrive.",
+        "Five minutes is enough.",
+        "Begin with gratitude."
+      ],
+      "practice": "Do the Morning Practice for 30 days and mark each one on the tracker.",
+      "video": "the-morning-practice.mp4",
+      "worksheet": "worksheet_ep6_the_morning_practice.pdf",
+      "audio": "the-morning-practice.mp3",
+      "poster": "the-morning-practice.jpg",
+      "duration": 317
+    }
+  ],
+  "extraDownloads": []
+}

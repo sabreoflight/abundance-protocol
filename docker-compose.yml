@@ -1,0 +1,15 @@
+# One-command deploy on any server with Docker:  docker compose up -d --build
+# Put a TLS-terminating proxy in front (Caddy example in README) or use your host's HTTPS.
+services:
+  site:
+    build: .
+    env_file: .env
+    environment:
+      DATA_DIR: /data
+    ports:
+      - "3000:3000"
+    volumes:
+      - abundance-data:/data
+    restart: unless-stopped
+volumes:
+  abundance-data:

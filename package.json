@@ -1,0 +1,20 @@
+{
+  "name": "mission-abundance-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Abundance Protocol: self-contained course microsite with Stripe checkout, student accounts and a protected lesson player.",
+  "main": "server.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "dev": "DEV_FAKE_CHECKOUT=1 node --no-warnings --watch server.js",
+    "admin": "node --no-warnings tools/admin.js",
+    "smoke": "node --no-warnings tools/smoke_test.js"
+  },
+  "dependencies": {
+    "bcryptjs": "3.0.3",
+    "express": "4.22.3",
+    "nodemailer": "10.3.1",
+    "stripe": "23.1.0"
+  }
+}

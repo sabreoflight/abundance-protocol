@@ -1,0 +1,6 @@
+node_modules
+.env
+data
+voice
+content/media-original
+.git
