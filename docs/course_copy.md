@@ -1,5 +1,5 @@
 # The Abundance Protocol — Course Copy
-**Mission Abundance · Final copy, version 1.1**
+**Mission Abundance · Final copy, version 1.2**
 
 This document holds every word the course needs: the sales page, the course platform text, the lessons, the emails, the Stripe checkout text, the policies and the small interface text. Placeholders in `{{double_braces}}` are filled in by the platform.
 
@@ -18,7 +18,10 @@ This document holds every word the course needs: the sales page, the course plat
 
 ### A2. Subheadline
 
-The Abundance Protocol is eight calm, guided video lessons that train your attention away from scarcity and toward creating, giving and gratitude. Each lesson takes about five minutes. One payment, lifetime access.
+Calm, five-minute video lessons that quiet the constant "not enough" and train your attention toward gratitude, creating and giving. One payment. Yours for life.
+
+*Eyebrow above the headline:* The Abundance Protocol · 8 lessons · 5 minutes a day
+*Link under the button:* Or watch a full lesson free first ↓
 
 **[ Begin the Protocol — $9 ]**
 *One-time payment · Lifetime access · 14-day refund*
@@ -32,6 +35,25 @@ There is only so much. If they rise, I fall. Time is running out. I'll feel abun
 That script turns money, attention and even happiness into a contest. It speeds up your breath and narrows your focus. It keeps your eyes on other people's lanes instead of on what you are building.
 
 And because it is a *lens*, more effort doesn't fix it. Working harder through a scarcity lens only shows you more scarcity.
+
+### A3b. Sound familiar? (short version used on the page)
+
+Three quote cards: "There's only so much to go around." · "If they rise, I fall." · "I'll feel abundant when I finally have more."
+
+That's a scarcity lens. It turns money, attention and even happiness into a contest, and because it's a lens, working harder through it only shows you more scarcity. The Protocol trains a different way of seeing, five calm minutes at a time.
+
+### A3c. What changes
+
+- **Calmer mornings:** a five-minute ritual before the world asks anything of you.
+- **Less comparison:** a three-step practice for the moment the old race starts up: notice, name, bless.
+- **A clear picture:** know exactly what you're building, write it down, and hold it.
+- **Gratitude first:** feel abundant before the facts change, by noticing what's already here.
+- **Calm action:** one complete day at a time, one task at a time, without the rush.
+- **Generous by default:** five ways to give that have nothing to do with money.
+
+### A3d. Free lesson
+
+**Try a full lesson before you decide.** Lesson 2, *Choosing Abundance*, holds the heart of the Protocol: the abundance lens, the power of focus, and gratitude as the bridge from feeling lack to feeling abundant. *5 minutes · Headphones recommended*
 
 ### A4. The shift
 
@@ -72,7 +94,7 @@ The steps run Mind, then Action, then Deed.
 **Plus:**
 - **Eight printable worksheets,** one per lesson, with what to do, say, remember and reflect on, and a tracker.
 - **A 30-day Morning Practice tracker.**
-- **Audio-only versions** of every lesson, for walks and quiet commutes.
+- **Narrated and audio-only versions,** added free as they're released.
 - **Lifetime access,** including future updates to these lessons.
 
 ### A7. How it works
@@ -103,7 +125,7 @@ The Abundance Protocol is inspired by *The Science of Getting Rich*, written by 
 
 > **The Abundance Protocol**
 > **$9**, one payment, lifetime access
-> Eight guided lessons · Eight worksheets · 30-day tracker · Audio versions
+> 8 video lessons and 8 worksheets · 30-day tracker · Narrated and audio versions, free as released · All future updates
 > **[ Begin the Protocol ]**
 > *Founding price. It will rise as the library grows.*
 
@@ -116,6 +138,12 @@ The Abundance Protocol is inspired by *The Science of Getting Rich*, written by 
 **How long are the lessons?**
 About five minutes each. The Foundation is a little under eight. You can finish the whole series in under an hour, and then return to the Morning Practice every day.
 
+**Can I try it first?**
+Yes. Lesson 2, *Choosing Abundance*, is free to watch on the sales page. If you buy and it isn't right for you, you have 14 days for a full refund.
+
+**Are the lessons narrated?**
+Not yet. The lessons are currently guided by on-screen words, animation and ambient music, so you can follow them with the sound on or off. Narrated versions and audio-only downloads are being recorded and will be added to your account at no extra cost.
+
 **Do I need any experience with meditation?**
 No. Every lesson is guided, slow and simple. If you can breathe and pay attention for five minutes, you can do this.
 
@@ -123,13 +151,13 @@ No. Every lesson is guided, slow and simple. If you can breathe and pay attentio
 No. The Abundance Protocol is a contemplative practice for your attention, mindset and conduct. It makes no promise of income or results. For financial decisions, talk to a qualified professional.
 
 **How do I access the course?**
-After you pay, you'll receive an email to set your password. Then sign in from any device, at any time.
+Right after you pay, you choose a password and you're in. Then sign in from any device, at any time.
 
 **Is it really lifetime access?**
 Yes. You pay once and keep access to these lessons, including updates to them.
 
 **Can I download the videos?**
-The videos stream inside your account. The worksheets, tracker and audio versions are yours to download.
+The videos stream inside your account. The worksheets and tracker are yours to download, and so will the audio versions be when they're released.
 
 **Can I share my login?**
 Please don't. Your access is for you. If someone you love would benefit, the price is kept low so they can join.
