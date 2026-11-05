@@ -1,0 +1,12 @@
+name = "abundance-proxy"
+main = "src/worker.js"
+compatibility_date = "2026-11-01"
+account_id = "c977a978a4fc2d427eabae315f668142"
+
+[[routes]]
+pattern = "humanplanetmedia.com/abundance"
+zone_name = "humanplanetmedia.com"
+
+[[routes]]
+pattern = "humanplanetmedia.com/abundance/*"
+zone_name = "humanplanetmedia.com"
