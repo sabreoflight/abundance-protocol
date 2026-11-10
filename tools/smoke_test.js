@@ -30,7 +30,7 @@ const ok = (cond, msg) => { if (cond) { pass++; console.log('  ✓', msg); } els
   let r = await req('/'); let home = await r.text(); ok(r.status === 200 && home.includes('Abundance is a practice'), 'sales page renders');
   ok(home.includes('property="og:image"') && home.includes('twitter:card'), 'social share tags present');
   ok(!/poster="\//.test(home), 'video posters use base-path-safe relative URLs');
-  r = await req('/media/preview-lesson-2.mp4', { headers: { range: 'bytes=0-99' } }); ok(r.status === 206, 'free preview lesson is public');
+  r = await req('/media/preview-lesson-2-v2.mp4', { headers: { range: 'bytes=0-99' } }); ok(r.status === 206, 'free preview lesson is public');
   r = await req('/og.jpg'); ok(r.status === 200 && r.headers.get('content-type').includes('image'), 'share image served');
   for (const p of ['/terms', '/refund', '/disclaimer', '/login', '/forgot']) { r = await req(p); ok(r.status === 200, `${p} renders`); }
   r = await req('/app'); ok(r.status === 303 && r.headers.get('location').startsWith('/login'), 'course area requires sign-in');
