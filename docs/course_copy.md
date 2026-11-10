@@ -24,7 +24,7 @@ Calm, five-minute video lessons that quiet the constant "not enough" and train y
 *Link under the button:* Or watch a full lesson free first ↓
 
 **[ Begin the Protocol — $9 ]**
-*One-time payment · Lifetime access · 14-day refund*
+*One-time payment · Lifetime access · 7-day refund*
 
 ### A3. The problem
 
@@ -131,7 +131,7 @@ The Abundance Protocol is inspired by *The Science of Getting Rich*, written by 
 
 ### A11. Guarantee
 
-**Try it for 14 days.** If the Protocol isn't right for you, email us within 14 days of purchase for a full refund, no questions asked.
+**Try it for 7 days.** If the Protocol isn't right for you, email us within 7 days of purchase for a full refund, no questions asked.
 
 ### A12. FAQ
 
@@ -139,7 +139,7 @@ The Abundance Protocol is inspired by *The Science of Getting Rich*, written by 
 About five minutes each. The Foundation is a little under eight. You can finish the whole series in under an hour, and then return to the Morning Practice every day.
 
 **Can I try it first?**
-Yes. Lesson 2, *Choosing Abundance*, is free to watch on the sales page. If you buy and it isn't right for you, you have 14 days for a full refund.
+Yes. Lesson 2, *Choosing Abundance*, is free to watch on the sales page. If you buy and it isn't right for you, you have 7 days for a full refund.
 
 **Are the lessons narrated?**
 Not yet. The lessons are currently guided by on-screen words, animation and ambient music, so you can follow them with the sound on or off. Narrated versions and audio-only downloads are being recorded and will be added to your account at no extra cost.
@@ -163,7 +163,7 @@ The videos stream inside your account. The worksheets and tracker are yours to d
 Please don't. Your access is for you. If someone you love would benefit, the price is kept low so they can join.
 
 **What if it isn't for me?**
-Email us within 14 days for a full refund.
+Email us within 7 days for a full refund.
 
 ### A13. Closing line
 
@@ -433,7 +433,7 @@ One small suggestion: watch your first lesson somewhere quiet, with headphones i
 Welcome,
 Mission Abundance
 
-*Receipt: your Stripe receipt arrives separately. You have 14 days for a full refund. Just reply to this email.*
+*Receipt: your Stripe receipt arrives separately. You have 7 days for a full refund. Just reply to this email.*
 
 ### C2. Day 1 — Begin
 
@@ -538,7 +538,7 @@ Mission Abundance
 | **Price** | $9.00 USD, one-time |
 | **Statement descriptor** (22 characters maximum) | `MISSION ABUNDANCE` |
 | **Checkout submit button** | Pay |
-| **Checkout custom text (above the button)** | Lifetime access. You'll receive an email to set your password within a few minutes. 14-day refund, no questions asked. |
+| **Checkout custom text (above the button)** | Lifetime access. You'll receive an email to set your password within a few minutes. 7-day refund, no questions asked. |
 | **Terms acceptance text** | I agree to the Terms of Access and Refund Policy. |
 | **Success page heading** | You're in. |
 | **Success page body** | Check your inbox for an email to set your password. It should arrive within a few minutes. While you wait, take one slow breath. You've just stepped off the race. |
@@ -554,7 +554,7 @@ Mission Abundance
 
 ### E1. Refund Policy
 
-You may request a full refund within 14 days of purchase for any reason. Email {{support_email}} from the address you used to buy, and we'll refund your payment to the original card. Access to the course ends when the refund is issued. Refunds are not available after 14 days.
+You may request a full refund within 7 days of purchase for any reason. Email {{support_email}} from the address you used to buy, and we'll refund your payment to the original card. Access to the course ends when the refund is issued. Refunds are not available after 7 days.
 
 ### E2. Terms of Access (summary)
 

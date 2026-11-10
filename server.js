@@ -87,7 +87,7 @@ app.post('/checkout', async (req, res, next) => {
       allow_promotion_codes: true,
       customer_creation: 'always',
       metadata: { course_id: 'abundance-protocol' },
-      custom_text: { submit: { message: "Lifetime access. You'll set your password right after paying. 14-day refund, no questions asked." } },
+      custom_text: { submit: { message: "Lifetime access. You'll set your password right after paying. 7-day refund, no questions asked." } },
     };
     if (req.user) params.customer_email = req.user.email;
     if (config.STRIPE_REQUIRE_TOS) params.consent_collection = { terms_of_service: 'required' };

@@ -37,7 +37,7 @@ Note the returned `price_…` id.
 stripe payment_links create \
   -d "line_items[0][price]=price_XXXX" \
   -d "line_items[0][quantity]=1" \
-  -d "custom_text[submit][message]=Lifetime access. You'll receive an email to set your password within a few minutes. 14-day refund, no questions asked." \
+  -d "custom_text[submit][message]=Lifetime access. You'll receive an email to set your password within a few minutes. 7-day refund, no questions asked." \
   -d "after_completion[type]=redirect" \
   -d "after_completion[redirect][url]=https://YOUR-SITE/welcome"
 ```
